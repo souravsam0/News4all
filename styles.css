@@ -1,0 +1,14 @@
+body {
+    background-color: rgba(33, 131, 100, 0.427);
+  }
+  .navbar-brand
+  {
+    font-size: 30px;
+    color: rgb(25, 221, 143);
+  }
+
+  .nav-link{
+    color:rgb(132, 255, 0);
+  }
+
+
